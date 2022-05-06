@@ -1,6 +1,6 @@
 {
   "name": "account-viewer",
-  "homepage": "https://mfornet.github.io/near-mini-explorer/",
+  "homepage": "https://near-explorer.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
